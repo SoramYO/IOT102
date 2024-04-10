@@ -1,1 +1,1 @@
-![image](https://github.com/SoramYO/IOT102/assets/90395601/33cc1330-8a63-4135-afbc-1de280989850)
+![image](https://github.com/SoramYO/IOT102/assets/90395601/d3ac0923-0fc7-4bf5-80bd-bf8dfb0c92d2)
