@@ -10,13 +10,13 @@
 #include <UniversalTelegramBot.h>
 #include <SoftwareSerial.h>
 #include <BlynkSimpleEsp8266.h>
-String URL = "http://api.thingspeak.com/update?api_key=LLI62EG4A7RXEM91&field1=";
+String URL = "http://api.thingspeak.com/update?api_key=(YOURAPIKEY)&field1=";
 
 const char *ssid = "Huy";           // Enter your WIFI SSID
 const char *password = "14121412";  // Enter your WIFI Password
 
-#define BOTtoken "7169920821:AAEvMk3EmQywc1e-AZQU6VVSaP-cQ34MULI"  // Enter the bottoken you got from botfather
-#define CHAT_ID "1241961204"                                       // Enter your chatID you got from chatid bot
+#define BOTtoken "BOTTOKEN"  // Enter the bottoken you got from botfather
+#define CHAT_ID "USERCHATID"                                       // Enter your chatID you got from chatid bot
 
 SoftwareSerial ESP82666(D2, D3);
 
